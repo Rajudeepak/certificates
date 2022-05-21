@@ -1,2 +1,2 @@
 # certificates
-My technical certificares
+My technical certificates
